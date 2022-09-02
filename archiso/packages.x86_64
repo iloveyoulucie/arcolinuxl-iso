@@ -180,6 +180,9 @@ os-prober
 ###LUKS encryption
 cryptsetup
 
+###Veracrypt encryption
+veracrypt
+
 ###audio
 alsa-firmware
 alsa-plugins
